@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4287c6a4-eaeb-420d-bf97-6bd9a18bea70" name="Changes" comment="check">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Practice001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Practice002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Practice003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Practice004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Practice005.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,16 +42,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Application.Practice003">
+  <component name="RunManager" selected="Application.Practice004">
     <configuration name="Hello" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hello" />
-      <module name="myJavaPRJ" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Hello2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hello2" />
       <module name="myJavaPRJ" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,12 +71,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Practice004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice004" />
+      <module name="myJavaPRJ" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practice005" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice005" />
+      <module name="myJavaPRJ" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Practice004" />
+        <item itemvalue="Application.Practice005" />
         <item itemvalue="Application.Practice003" />
         <item itemvalue="Application.Practice002" />
         <item itemvalue="Application.Practice001" />
-        <item itemvalue="Application.Hello2" />
       </list>
     </recent_temporary>
   </component>
@@ -102,7 +109,8 @@
       <workItem from="1646976496329" duration="2941000" />
       <workItem from="1646979493122" duration="979000" />
       <workItem from="1646980499574" duration="2172000" />
-      <workItem from="1647164989902" duration="1774000" />
+      <workItem from="1647164989902" duration="2523000" />
+      <workItem from="1647389126672" duration="1750000" />
     </task>
     <task id="LOCAL-00001" summary="check">
       <created>1646980884043</created>
@@ -111,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646980884043</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="check">
+      <created>1647166799597</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1647166799597</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
