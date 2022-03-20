@@ -5,25 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4287c6a4-eaeb-420d-bf97-6bd9a18bea70" name="Changes" comment="check">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Bf1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Bf10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Bf2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Bf3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Bf4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Bf5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Bf6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Bf7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Bf8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Bf9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Bif1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Bif2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Bif3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Bif4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Bif5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Bif6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Bif7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Practice014.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/P1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,16 +48,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Application.Bf10">
+  <component name="RunManager" selected="Application.P1">
     <configuration name="Bf10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Bf10" />
-      <module name="myJavaPRJ" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Bf6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bf6" />
       <module name="myJavaPRJ" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -109,13 +84,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P1" />
+      <module name="myJavaPRJ" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P1" />
         <item itemvalue="Application.Bf10" />
         <item itemvalue="Application.Bf9" />
         <item itemvalue="Application.Bf8" />
         <item itemvalue="Application.Bf7" />
-        <item itemvalue="Application.Bf6" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +118,7 @@
       <workItem from="1647164989902" duration="2523000" />
       <workItem from="1647389126672" duration="8268000" />
       <workItem from="1647571822313" duration="1874000" />
-      <workItem from="1647671017901" duration="9995000" />
+      <workItem from="1647671017901" duration="10450000" />
     </task>
     <task id="LOCAL-00001" summary="check">
       <created>1646980884043</created>
@@ -194,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647698621507</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="check">
+      <created>1647770650158</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1647770650158</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
