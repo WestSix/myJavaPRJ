@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4287c6a4-eaeb-420d-bf97-6bd9a18bea70" name="Changes" comment="check">
-      <change afterPath="$PROJECT_DIR$/src/main/java/P2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Barray1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,23 +48,16 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Application.P1">
+  <component name="RunManager" selected="Application.P3">
+    <configuration name="Barray1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Barray1" />
+      <module name="myJavaPRJ" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Bf10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Bf10" />
-      <module name="myJavaPRJ" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Bf7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bf7" />
-      <module name="myJavaPRJ" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Bf8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bf8" />
       <module name="myJavaPRJ" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,13 +84,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P3" />
+      <module name="myJavaPRJ" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P3" />
+        <item itemvalue="Application.Barray1" />
         <item itemvalue="Application.P1" />
         <item itemvalue="Application.Bf10" />
         <item itemvalue="Application.Bf9" />
-        <item itemvalue="Application.Bf8" />
-        <item itemvalue="Application.Bf7" />
       </list>
     </recent_temporary>
   </component>
@@ -121,6 +120,7 @@
       <workItem from="1647571822313" duration="1874000" />
       <workItem from="1647671017901" duration="11735000" />
       <workItem from="1647821867421" duration="645000" />
+      <workItem from="1647874079702" duration="311000" />
     </task>
     <task id="LOCAL-00001" summary="check">
       <created>1646980884043</created>
@@ -192,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647771263392</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="check">
+      <created>1647874106175</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1647874106175</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
