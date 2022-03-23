@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4287c6a4-eaeb-420d-bf97-6bd9a18bea70" name="Changes" comment="2022.03.23 Commit - 변수, 연산자">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ex04_03.java" afterDir="false" />
-    </list>
+    <list default="true" id="4287c6a4-eaeb-420d-bf97-6bd9a18bea70" name="Changes" comment="2022.03.23 Commit - 변수, 연산자" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -121,7 +119,7 @@
       <workItem from="1647671017901" duration="11735000" />
       <workItem from="1647821867421" duration="645000" />
       <workItem from="1647874079702" duration="1362000" />
-      <workItem from="1647992650235" duration="4393000" />
+      <workItem from="1647992650235" duration="4694000" />
     </task>
     <task id="LOCAL-00001" summary="check">
       <created>1646980884043</created>
@@ -221,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647999459145</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="2022.03.23 Commit - 변수, 연산자">
+      <created>1647999981898</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1647999981898</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
