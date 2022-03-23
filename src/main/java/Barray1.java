@@ -8,18 +8,20 @@ public class Barray1 {
 
         int c = sc.nextInt();
         int[] n = new int[c];
+        int min = n[0];
+        int max = n[0];
 
         for(int i = 0; i < c; i++){
 
-            n[0] = sc.nextInt();
-            n[1] = sc.nextInt();
-            n[2] = sc.nextInt();
-            n[3] = sc.nextInt();
-            n[4] = sc.nextInt();
-
-
+            n[i] = sc.nextInt();
+            if(min >= n[i]){
+                max = n[i];
+            }else if(min <= n[i]){
+                min = n[i];
+            }
 
         }
+        System.out.println(max+" "+min);
 
     }
 
