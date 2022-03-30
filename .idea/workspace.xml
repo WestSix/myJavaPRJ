@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4287c6a4-eaeb-420d-bf97-6bd9a18bea70" name="Changes" comment="2022.03.29 Commit - 백준 if" />
+    <list default="true" id="4287c6a4-eaeb-420d-bf97-6bd9a18bea70" name="Changes" comment="2022.03.30 Commit - 백준 if">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ex04_06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,23 +49,23 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Application.G4">
+  <component name="RunManager" selected="Application.Ex04_06">
+    <configuration name="E1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="E1" />
+      <module name="myJavaPRJ" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex04_06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex04_06" />
+      <module name="myJavaPRJ" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="G0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="G0" />
-      <module name="myJavaPRJ" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="G1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="G1" />
-      <module name="myJavaPRJ" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="G2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="G2" />
       <module name="myJavaPRJ" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,11 +94,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex04_06" />
+        <item itemvalue="Application.E1" />
         <item itemvalue="Application.G4" />
         <item itemvalue="Application.G3" />
         <item itemvalue="Application.G0" />
-        <item itemvalue="Application.G2" />
-        <item itemvalue="Application.G1" />
       </list>
     </recent_temporary>
   </component>
@@ -122,6 +125,7 @@
       <workItem from="1647992650235" duration="7396000" />
       <workItem from="1648459331635" duration="1321000" />
       <workItem from="1648538209105" duration="1681000" />
+      <workItem from="1648596797589" duration="3013000" />
     </task>
     <task id="LOCAL-00001" summary="check">
       <created>1646980884043</created>
@@ -263,7 +267,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648539281028</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="2022.03.30 Commit - 백준 if">
+      <created>1648597049660</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1648597049660</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -286,6 +297,7 @@
     <MESSAGE value="2022.03.28 Commit - 백준 조건문 1, 2" />
     <MESSAGE value="2022.03.28 Commit - 백준 Hello World" />
     <MESSAGE value="2022.03.29 Commit - 백준 if" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.03.29 Commit - 백준 if" />
+    <MESSAGE value="2022.03.30 Commit - 백준 if" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.03.30 Commit - 백준 if" />
   </component>
 </project>
