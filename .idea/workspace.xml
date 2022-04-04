@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4287c6a4-eaeb-420d-bf97-6bd9a18bea70" name="Changes" comment="2022.03.30 Commit - if">
-      <change afterPath="$PROJECT_DIR$/src/main/java/G7.java" afterDir="false" />
+    <list default="true" id="4287c6a4-eaeb-420d-bf97-6bd9a18bea70" name="Changes" comment="2022.04.04 Commit - if">
+      <change afterPath="$PROJECT_DIR$/src/main/java/G8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/G9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +50,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Application.G7">
+  <component name="RunManager" selected="Application.G9">
     <configuration name="G5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="G5" />
       <module name="myJavaPRJ" />
@@ -71,6 +72,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="G8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="G8" />
+      <module name="myJavaPRJ" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="G9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="G9" />
+      <module name="myJavaPRJ" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Hello" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hello" />
       <module name="myJavaPRJ" />
@@ -78,27 +93,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Termtest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Termtest" />
-      <module name="myJavaPRJ" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Termtest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Termtest2" />
-      <module name="myJavaPRJ" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.G9" />
+        <item itemvalue="Application.G8" />
         <item itemvalue="Application.G7" />
         <item itemvalue="Application.G6" />
         <item itemvalue="Application.G5" />
-        <item itemvalue="Application.Termtest2" />
-        <item itemvalue="Application.Termtest" />
       </list>
     </recent_temporary>
   </component>
@@ -127,7 +128,9 @@
       <workItem from="1648538209105" duration="1681000" />
       <workItem from="1648596797589" duration="12037000" />
       <workItem from="1648683642511" duration="981000" />
-      <workItem from="1648836449304" duration="927000" />
+      <workItem from="1648836449304" duration="1446000" />
+      <workItem from="1649034406915" duration="1303000" />
+      <workItem from="1649115107463" duration="604000" />
     </task>
     <task id="LOCAL-00001" summary="check">
       <created>1646980884043</created>
@@ -318,7 +321,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648684346167</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="2022.04.02 Commit - if">
+      <created>1648883433168</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1648883433168</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -344,6 +354,7 @@
     <MESSAGE value="2022.03.30 Commit - 백준 if" />
     <MESSAGE value="2022.03.30 Commit - 논리연산자" />
     <MESSAGE value="2022.03.30 Commit - if" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.03.30 Commit - if" />
+    <MESSAGE value="2022.04.02 Commit - if" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.04.02 Commit - if" />
   </component>
 </project>
