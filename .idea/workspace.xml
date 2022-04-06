@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4287c6a4-eaeb-420d-bf97-6bd9a18bea70" name="Changes" comment="2022.04.05 Commit - if">
-      <change afterPath="$PROJECT_DIR$/src/main/java/G10.java" afterDir="false" />
+    <list default="true" id="4287c6a4-eaeb-420d-bf97-6bd9a18bea70" name="Changes" comment="2022.04.06 Commit - for">
+      <change afterPath="$PROJECT_DIR$/src/main/java/G11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/G12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/G13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/G14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/G15.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,37 +53,37 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Application.G10">
-    <configuration name="G10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="G10" />
+  <component name="RunManager" selected="Application.G15">
+    <configuration name="G11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="G11" />
       <module name="myJavaPRJ" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="G6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="G6" />
+    <configuration name="G12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="G12" />
       <module name="myJavaPRJ" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="G7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="G7" />
+    <configuration name="G13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="G13" />
       <module name="myJavaPRJ" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="G8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="G8" />
+    <configuration name="G14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="G14" />
       <module name="myJavaPRJ" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="G9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="G9" />
+    <configuration name="G15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="G15" />
       <module name="myJavaPRJ" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -94,11 +98,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.G10" />
-        <item itemvalue="Application.G9" />
-        <item itemvalue="Application.G8" />
-        <item itemvalue="Application.G7" />
-        <item itemvalue="Application.G6" />
+        <item itemvalue="Application.G15" />
+        <item itemvalue="Application.G14" />
+        <item itemvalue="Application.G13" />
+        <item itemvalue="Application.G12" />
+        <item itemvalue="Application.G11" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +134,7 @@
       <workItem from="1648836449304" duration="1446000" />
       <workItem from="1649034406915" duration="1303000" />
       <workItem from="1649115107463" duration="845000" />
-      <workItem from="1649200825298" duration="292000" />
+      <workItem from="1649200825298" duration="4803000" />
     </task>
     <task id="LOCAL-00001" summary="check">
       <created>1646980884043</created>
@@ -335,7 +339,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649115806435</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="2022.04.06 Commit - for">
+      <created>1649201257586</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1649201257586</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -363,6 +374,7 @@
     <MESSAGE value="2022.03.30 Commit - if" />
     <MESSAGE value="2022.04.02 Commit - if" />
     <MESSAGE value="2022.04.05 Commit - if" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.04.05 Commit - if" />
+    <MESSAGE value="2022.04.06 Commit - for" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.04.06 Commit - for" />
   </component>
 </project>
