@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4287c6a4-eaeb-420d-bf97-6bd9a18bea70" name="Changes" comment="2022.04.07 Commit - for">
-      <change afterPath="$PROJECT_DIR$/src/main/java/G21.java" afterDir="false" />
+    <list default="true" id="4287c6a4-eaeb-420d-bf97-6bd9a18bea70" name="Changes" comment="2022.04.08 Commit - for">
+      <change afterPath="$PROJECT_DIR$/src/main/java/G22.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,16 +47,10 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/html" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Application.G21">
-    <configuration name="G17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="G17" />
-      <module name="myJavaPRJ" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.G22">
     <configuration name="G18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="G18" />
       <module name="myJavaPRJ" />
@@ -85,6 +79,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="G22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="G22" />
+      <module name="myJavaPRJ" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Hello" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hello" />
       <module name="myJavaPRJ" />
@@ -94,11 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.G22" />
         <item itemvalue="Application.G21" />
         <item itemvalue="Application.G20" />
         <item itemvalue="Application.G19" />
         <item itemvalue="Application.G18" />
-        <item itemvalue="Application.G17" />
       </list>
     </recent_temporary>
   </component>
@@ -132,7 +133,10 @@
       <workItem from="1649115107463" duration="845000" />
       <workItem from="1649200825298" duration="9734000" />
       <workItem from="1649288557718" duration="681000" />
-      <workItem from="1649375238306" duration="293000" />
+      <workItem from="1649375238306" duration="1310000" />
+      <workItem from="1649378125162" duration="616000" />
+      <workItem from="1649381512191" duration="605000" />
+      <workItem from="1649633379211" duration="294000" />
     </task>
     <task id="LOCAL-00001" summary="check">
       <created>1646980884043</created>
@@ -414,7 +418,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649288638666</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="2022.04.08 Commit - for">
+      <created>1649375742782</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1649375742782</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -444,6 +455,7 @@
     <MESSAGE value="2022.04.05 Commit - if" />
     <MESSAGE value="2022.04.06 Commit - for" />
     <MESSAGE value="2022.04.07 Commit - for" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.04.07 Commit - for" />
+    <MESSAGE value="2022.04.08 Commit - for" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.04.08 Commit - for" />
   </component>
 </project>
