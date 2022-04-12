@@ -4,9 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4287c6a4-eaeb-420d-bf97-6bd9a18bea70" name="Changes" comment="2022.04.08 Commit - for">
-      <change afterPath="$PROJECT_DIR$/src/main/java/G23.java" afterDir="false" />
+    <list default="true" id="4287c6a4-eaeb-420d-bf97-6bd9a18bea70" name="Changes" comment="2022.04.12 Commit - for">
+      <change afterPath="$PROJECT_DIR$/src/main/java/G24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/G25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/G26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/G27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/G28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/G29.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ex0323.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ex0323.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,37 +56,37 @@
     <property name="last_opened_file_path" value="D:/html" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Application.G23">
-    <configuration name="G19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="G19" />
+  <component name="RunManager" selected="Application.G29">
+    <configuration name="G25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="G25" />
       <module name="myJavaPRJ" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="G20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="G20" />
+    <configuration name="G26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="G26" />
       <module name="myJavaPRJ" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="G21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="G21" />
+    <configuration name="G27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="G27" />
       <module name="myJavaPRJ" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="G22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="G22" />
+    <configuration name="G28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="G28" />
       <module name="myJavaPRJ" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="G23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="G23" />
+    <configuration name="G29" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="G29" />
       <module name="myJavaPRJ" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.G23" />
-        <item itemvalue="Application.G22" />
-        <item itemvalue="Application.G21" />
-        <item itemvalue="Application.G20" />
-        <item itemvalue="Application.G19" />
+        <item itemvalue="Application.G29" />
+        <item itemvalue="Application.G25" />
+        <item itemvalue="Application.G26" />
+        <item itemvalue="Application.G28" />
+        <item itemvalue="Application.G27" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +143,8 @@
       <workItem from="1649378125162" duration="616000" />
       <workItem from="1649381512191" duration="605000" />
       <workItem from="1649633379211" duration="391000" />
-      <workItem from="1649721547459" duration="1503000" />
+      <workItem from="1649721547459" duration="2219000" />
+      <workItem from="1649762713832" duration="7580000" />
     </task>
     <task id="LOCAL-00001" summary="check">
       <created>1646980884043</created>
@@ -433,7 +440,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649633718656</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="2022.04.12 Commit - for">
+      <created>1649723416933</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1649723416933</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -464,6 +478,7 @@
     <MESSAGE value="2022.04.06 Commit - for" />
     <MESSAGE value="2022.04.07 Commit - for" />
     <MESSAGE value="2022.04.08 Commit - for" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.04.08 Commit - for" />
+    <MESSAGE value="2022.04.12 Commit - for" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.04.12 Commit - for" />
   </component>
 </project>
