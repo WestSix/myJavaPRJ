@@ -13,7 +13,10 @@ public class G0608_4 {
         }catch(ArithmeticException e){
             System.out.println("0으로 나누는 등의 오류에요!");
             System.out.println("에러 메시지 : " + e);
-        }finally{
+        }/*catch(Exception e){
+            System.out.println("배열 첨자가 배열 크기보다 커요!");
+            System.out.println("에러 메시지 : " + e);
+        }*/finally{
             System.out.println("이 부분은 무조건 출력돼요!");
         }
 
